@@ -1,0 +1,26 @@
+<annotation>
+	<folder>window</folder>
+	<filename>window_867caeab-e874-4d0a-b6d3-db0a7e333537.jpg</filename>
+	<path>D:\AIDetection\Tensorflow\workspace\images\collectedimages\window\window_867caeab-e874-4d0a-b6d3-db0a7e333537.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Window</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>147</ymin>
+			<xmax>425</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
